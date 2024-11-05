@@ -1,3 +1,10 @@
 MBTI_Images/
 .venv/
 data/
+.ipynb_checkpoints/
+logs/
+models/
+notebookHTML/
+papers/
+*.pdf
+*.dat
